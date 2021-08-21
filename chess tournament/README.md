@@ -4,7 +4,7 @@
 * Total no.of rounds that will be played
 
 ### process :-
-* Pairing of players is done **note:** [no player is matched against the same player in the entire tournament]
+* Pairing of players is done **note:** [no player is matched against the same opponent twice in the entire tournament]
 * If odd no.of.players are registered for the tournament then the unpaired player will get the points without playing that round
 * The match is then scheduled for the paired players
 * Based on the match results the players points table is updated in each round
