@@ -1,5 +1,3 @@
-package test.chessTournament;
-
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.Scanner;
