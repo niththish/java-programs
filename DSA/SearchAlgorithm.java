@@ -62,7 +62,7 @@ public class SearchAlgorithm {
             return 0;
         }
         int i = 1;
-        while(arr[i]<=target && i<arr.length){
+        while(i<=arr.length-1 && arr[i]<=target){
             i*=2;
         }
         return binarySearch(arr,i/2,Math.min(i,arr.length-1),target);
