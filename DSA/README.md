@@ -1,4 +1,4 @@
-<h1 align="center">Data Structures and Algorithms</h1><br/>
+# <h1 align="center">Data Structures and Algorithms</h1> #
 ## Introduction:-
   This folder contains all my implementions related to DSA concepts. namely,
   * :mag: Searching 
