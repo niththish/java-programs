@@ -3,12 +3,12 @@
   * :mag: Searching 
   * :bar_chart: Sorting 
   
-### Search algorithm
+## Search algorithm
   * Linear search
   * Binary search
   * Exponential search
   
-### Sorting algorithm
+## Sorting algorithm
   * Bubble sort
   * Optimized bubble sort
   * Insertion sort
