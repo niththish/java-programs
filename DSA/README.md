@@ -1,4 +1,4 @@
-# Data Structures and Algorithms 
+<h1 align="center">Data Structures and Algorithms</h1>
   This folder contains all my implementions related to DSA concepts. namely,
   * :mag: Searching 
   * :bar_chart: Sorting 
