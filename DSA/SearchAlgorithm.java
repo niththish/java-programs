@@ -47,9 +47,9 @@ public class SearchAlgorithm {
         while(first<=last){
             int middle = (first + last)/2;
             if(arr[middle] < target){
-                first+=1;
+                first=middle+1;
             }else if(arr[middle] > target){
-                last-=1;
+                last=middle-1;
             }else{
                 return middle;
             }
