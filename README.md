@@ -1,2 +1,2 @@
 # java-programs
-This repository contains all my works done using java
+This repository contains all my works related to java
